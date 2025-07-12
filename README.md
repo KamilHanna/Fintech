@@ -23,7 +23,7 @@ This project explores how to personalize marketing strategies by identifying the
 
 # 📈 Final Project — Early Market Dynamics Modeling & Hedge Fund Replication
 
-This project aims to replicate hedge fund index returns and detect early market signals using financial time series data and advanced machine learning methods. The goal is to build a synthetic hedge fund through a combination of regression, state-space models, and reinforcement learning agents, while comparing different return preprocessing techniques for improved stability and risk-adjusted performance.
+This project aims to replicate hedge fund index returns and detect early market signals using financial time series data and advanced machine learning methods. The goal is to build a synthetic hedge fund through a combination of regression, state-space models, and reinforcement learning agents, while comparing different return preprocessing techniques for improved stability and risk-adjusted performance. (Extension on Business Case 4)
 
 ## 📊 Project Objectives
 
